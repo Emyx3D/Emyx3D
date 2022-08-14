@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eseigbe Emmanuel
 - 👀 I’m interested in Politics, Graphics and Coding
 - 🌱 I’m currently learning Python and React Naitive
-- 💞️ I’m looking to collaborate on HTML+CSS, Mobile or C++ Projects 
+- 💞️ UX/UI and visual edit head
 - 📫 How to reach me - epsilocybin@gmail.com, @3myx3D on Instagram, @emyx3d on twitter...
 
 <!---
