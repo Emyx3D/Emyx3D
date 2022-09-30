@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eseigbe Emmanuel
 - 👀 I’m interested in Politics, Graphics and Coding
-- 🌱 on my way to fullstack
+- 🌱 On my way to fullstack
 - 💞️ UX/UI and visual edit head
 - 📫 How to reach me - epsilocybin@gmail.com, @emyx3D on Instagram, @emyx3d on twitter...
 
