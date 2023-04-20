@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eseigbe Emmanuel
-- 👀 I’m interested in Politics, Graphics Design and Coding
+- 👀 I’m interested in Politics, Graphics and Programing
 - 🌱 On my way to fullstack
 - 💞️ Music... Computers
 - 📫 epsilocybin@gmail.com, @emyx3D on Instagram, @emyx3d on twitter...
