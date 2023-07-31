@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eseigbe Emmanuel
 - 👀 I’m interested in Politics, Graphics and Programing
-- 🌱 On my way to fullstack
+- 🌱www.emyx3d.com
 - 💞️ Music... Computers
 - 📫 epsilocybin@gmail.com, @emyx3D on Instagram, @emyx3d on twitter...
 
